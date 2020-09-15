@@ -12,7 +12,7 @@ In addition to determination, I consist of hard-working, responsibility and cons
 - CSS,  
 - JS,  
 - React,  
-- Redux   
+- Redux  
 #### Code examples: 
 <https://github.com/secondnumber>   
 #### Experience: 
