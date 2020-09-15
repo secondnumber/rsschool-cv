@@ -1,6 +1,6 @@
 # Junior Frontend developer  
 
-## *Yulya Vorontsova* @secondnumber :trollface:
+## **Yulya Vorontsova** @secondnumber :space_invader:
 #### Contact Info:  
 _secondnumber01@gmail.com_
 #### Summary:  
@@ -8,9 +8,13 @@ I've been doing web development from time to time for many years.
 I determined it was time to make it my main profession.  
 In addition to determination, I consist of hard-working, responsibility and constant self-improvement.
 #### Skills:  
-HTML, CSS, JS, React, Redux   
+- HTML,  
+- CSS,  
+- JS,  
+- React,  
+- Redux   
 #### Code examples: 
-https://github.com/secondnumber 
+<https://github.com/secondnumber>   
 #### Experience: 
 Configured and maintained a distributed network infrastructure, servers. 
 In particular Cisco, Mikrotik, HP, Ubiquity; 
