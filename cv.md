@@ -1,6 +1,6 @@
 # Junior Frontend developer  
 
-## **Yulya Vorontsova** @secondnumber :space_invader:
+## **Yulya Vorontsova** @secondnumber 8-)
 #### Contact Info:  
 _secondnumber01@gmail.com_
 #### Summary:  
